@@ -1,0 +1,15 @@
+{
+  "items": [
+    {
+      "id": 1738220316883,
+      "name": "zapatillas nike dama",
+      "price": 180000,
+      "category": "mujer",
+      "image": "https://raw.githubusercontent.com/BraianAcero/braian-store-data/main/images/1738220312500-5d9febfa-9e9f-4b79-b996-44de8bbabab1.jpeg",
+      "brand": "zapatillas",
+      "quantity": 1
+    }
+  ],
+  "total": 180000,
+  "date": "2025-01-30T06:59:02.818Z"
+}
