@@ -1,0 +1,15 @@
+{
+  "items": [
+    {
+      "id": 1738191415792,
+      "name": "lacoste ",
+      "price": 180000,
+      "category": "hombre",
+      "image": "https://raw.githubusercontent.com/BraianAcero/braian-store-images/main/images/1738191414024-03577427-2be8-4ce5-95bd-8bc78d5f9473.jpeg",
+      "quantity": 1,
+      "subtotal": 180000
+    }
+  ],
+  "total": 180000,
+  "date": "2025-01-30T07:11:22.383Z"
+}
