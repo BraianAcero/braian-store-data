@@ -1,0 +1,17 @@
+{
+  "items": [
+    {
+      "id": 1738221655822,
+      "name": "camisa nike",
+      "price": 18,
+      "category": "ropa",
+      "subCategory": "hombre",
+      "brand": "nike",
+      "image": "https://raw.githubusercontent.com/BraianAcero/braian-store-data/main/images/1738221653787-WhatsApp Image 2025-01-22 at 4.01.22 PM.jpeg",
+      "quantity": 1,
+      "subtotal": 18
+    }
+  ],
+  "total": 18,
+  "date": "2025-01-30T07:32:37.305Z"
+}
