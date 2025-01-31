@@ -1,0 +1,17 @@
+{
+  "items": [
+    {
+      "id": 1738222570917,
+      "name": "Pantaloneta con licra interna",
+      "price": 80,
+      "category": "ropa",
+      "subCategory": "hombre",
+      "brand": "nike",
+      "image": "https://raw.githubusercontent.com/BraianAcero/braian-store-data/main/images/1738222557455-WhatsApp Image 2025-01-27 at 10.08.20 PM.jpeg",
+      "quantity": 1,
+      "subtotal": 80
+    }
+  ],
+  "total": 80,
+  "date": "2025-01-31T01:08:44.660Z"
+}
